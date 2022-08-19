@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 scrapy = "*"
 pandas = "*"
+black = "*"
+isort = "*"
+flake8 = "*"
+pre-commit = "*"
+mypy = "*"
 
 [dev-packages]
 
