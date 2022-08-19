@@ -12,11 +12,11 @@ Department of Forestry, Fisheries and the Environment
 Government agency (National/Federal)
 South Africa
 
-`Phone:` 
+`Phone:` phone
 
-`Fax:` 
+`Fax:` fax
 
-`Email:` researchpermits@daff.gov.zaWebsite: http://www.dffe.gov.za
+`Email:` email
 
 []: # Language: markdown
 []: # Path: readme.md
